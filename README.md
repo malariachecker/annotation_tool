@@ -1,12 +1,6 @@
 Malaria LabelImg
 ================
 
-.. image:: https://img.shields.io/pypi/v/labelimg.svg
-        :target: https://pypi.python.org/pypi/labelimg
-
-.. image:: https://img.shields.io/travis/tzutalin/labelImg.svg
-        :target: https://travis-ci.org/tzutalin/labelImg
-
 This is a customized annonation tool created from LabelImg.
 
 LabelImg is a graphical image annotation tool.
