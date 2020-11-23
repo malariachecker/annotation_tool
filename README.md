@@ -93,7 +93,7 @@ Hotkeys
 
 License
 ~~~~~~~
-'Free software: MIT license <https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE>'_
+[GNU General Public License v3.0](https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
