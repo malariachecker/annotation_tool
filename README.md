@@ -93,7 +93,7 @@ Hotkeys
 
 License
 ~~~~~~~
-`Free software: MIT license <https://github.com/tzutalin/labelImg/blob/master/LICENSE>`_
+`Free software: MIT license <https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE>`_
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
