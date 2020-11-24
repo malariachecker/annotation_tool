@@ -15,7 +15,7 @@ by `ImageNet <http://www.image-net.org/>`__.
      
  <table>
   <tr>
-    <td>Before annotation</td>
+    <td style="text-align: center;">Before annotation</td>
   </tr>
   <tr>
     <td><img src="screenshots/before-annotation.png" ></td>
