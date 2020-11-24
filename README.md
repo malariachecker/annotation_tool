@@ -12,6 +12,14 @@ by `ImageNet <http://www.image-net.org/>`__.
 
 .. image:: https://raw.githubusercontent.com/tzutalin/labelImg/master/demo/demo3.jpg
      :alt: Demo Image
+     
+|Before annotation|
+|------|
+|<img src="screenshots/before-annotation.png" >|
+
+|After annotation|
+|------|
+|<img src="screenshots/after-annotation.png" >|
 
 
 Requirements
