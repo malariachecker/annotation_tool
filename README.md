@@ -1,8 +1,6 @@
 Malaria LabelImg
 ================
 
-[like this](http://someurl)
-
 This is a customized annonation tool created from LabelImg.
 
 LabelImg is a graphical image annotation tool.
@@ -103,7 +101,10 @@ Hotkeys
 
 License
 ~~~~~~~
+
 [GNU General Public License v3.0](https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE)
+
+
 
 [like this](http://someurl)
 
