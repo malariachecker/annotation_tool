@@ -102,8 +102,7 @@ Hotkeys
 License
 ~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-[GNU General Public License v3.0](https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE)
-[like this](http://someurl)
+[GNU General Public License v3.0](https://github.com/malariacheker/annonataton_tool/blob/main/LICENSE "Malaria checker license")
 
 Citation: 
 ~~~~~~~
