@@ -41,9 +41,9 @@ Installation (Get from PyPI)
     pip install git+https://github.com/facebookresearch/fvcore.git
     pip install 'git+https://github.com/facebookresearch/detectron2.git'
     
-    *clone malaria labelImg repo  
+    *clone annotation_tool repo  
     navigate to the repo directory
-    run 'python malaria labelImg'
+    run 'python labelImg.py'
     
    
 Usage
