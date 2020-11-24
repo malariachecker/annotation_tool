@@ -21,17 +21,6 @@ by `ImageNet <http://www.image-net.org/>`__.
 |------|
 |<img src="screenshots/after-annotation.png" >|
 
- 
-
-<table>
-  <tr>
-    <td>After annotation</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/after-annotation.png" ></td>
-  </tr>
-</table>
-
 
 Requirements
 ------------------
