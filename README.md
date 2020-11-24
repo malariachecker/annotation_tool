@@ -106,7 +106,7 @@ License
 ------------------
 
 Citation: 
-~~~~~~~
+------------------
 Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
 
 
@@ -119,3 +119,4 @@ Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
   year =         {2019}
 }
 ```
+------------------
