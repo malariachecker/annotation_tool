@@ -17,6 +17,10 @@ by `ImageNet <http://www.image-net.org/>`__.
 |------|
 |<img src="screenshots/before-annotation.png" >|
 
+|After annotation|
+|------|
+|<img src="screenshots/after-annotation.png" >|
+
  
 
 <table>
